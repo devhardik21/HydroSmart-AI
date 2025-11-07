@@ -14,7 +14,7 @@ export default defineConfig({
 
       manifest: {
         name: 'HydroSmart',
-        short_name: 'AppShortName',
+        short_name: 'HydroSmart',
         description: 'HydroSmart',
         theme_color: '#ffffff',
         background_color: '#ffffff',
